@@ -1,0 +1,13 @@
+1. react + vite
+2. tailwind
+3. redux toolkit
+4. react-router-dom
+5. react-hot-toast : for toast creation
+
+
+
+routing 
+ 1. /   :  home (creation & deletion)
+ 2. /pastes    :  all paste list down
+ 3. /pastes/:id     : view paste
+
